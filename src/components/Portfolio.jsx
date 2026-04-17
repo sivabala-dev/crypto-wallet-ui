@@ -2,7 +2,7 @@ function Portfolio(){
     return(
         <div className=" bg-gray-800 p-6 rounded-xl mt-6  border-gray-700"> 
                 <h2 className="text-lg font-bold mb-4 ">My Portfolio</h2>
-                 <div className="grid grid-cols-3 gap-4">
+                 <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                     <div className="flex justify-between items-center bg-gray-700 rounded-lg p-4 mb-3 hover:bg-gray-600 transition">
                      
                             

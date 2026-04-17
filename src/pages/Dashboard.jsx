@@ -14,11 +14,10 @@ function Dashboard(){
                  
                 <Portfolio/>
            
-                 <Transaction/>
+                <Transaction/>
             </div>
-            <div className="w-64 bg-gray-800 flex items-center justify-cneter">
+            <div className="w-64 bg-gray-800 flex items-center justify-center">
                 
-
             </div>
 
         </div>

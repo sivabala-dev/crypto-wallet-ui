@@ -1,6 +1,6 @@
 function TopCard() {
     return (
-        <div className="grid grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
 
                     <div className="bg-blue-500 p-4 rounded-xl  hover:scale-150 transition">
                         <h2 className="text-sm font-bold">Total Balance</h2>
